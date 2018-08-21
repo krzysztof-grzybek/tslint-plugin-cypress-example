@@ -1,0 +1,7 @@
+{
+    "extends": "tslint:recommended",
+    "rules": {
+      "no-chainable-assigmnet": true,
+      "no-chainable-arguments": true
+    }
+  }
