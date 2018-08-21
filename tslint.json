@@ -1,7 +1,7 @@
 {
-    "extends": "tslint:recommended",
+    "rulesDirectory": "node_modules/tslint-plugin-cypress/rules",
     "rules": {
-      "no-chainable-assigmnet": true,
+      "no-chainable-assignment": true,
       "no-chainable-arguments": true
     }
   }
