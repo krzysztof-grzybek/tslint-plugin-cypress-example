@@ -1,5 +1,5 @@
 {
-    "rulesDirectory": "node_modules/tslint-plugin-cypress/rules",
+    "rulesDirectory": "node_modules/tslint-plugin-cypress",
     "rules": {
       "no-chainable-assignment": true,
       "no-chainable-arguments": true
